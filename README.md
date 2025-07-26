@@ -238,6 +238,7 @@ A curated list of cryptography resources and links.
 
 ### Erlang
 
+- [KeyLara](https://github.com/your-username/keylara) - RSA and AES operations with distributed entropy generation support using Alara.
 - [crypto](http://erlang.org/doc/apps/crypto/) - Functions for computation of message digests, and functions for encryption and decryption.
 - [public_key](http://erlang.org/doc/man/public_key.html) - Provides functions to handle public-key infrastructure.
 
