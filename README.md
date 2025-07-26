@@ -238,6 +238,7 @@ A curated list of cryptography resources and links.
 
 ### Erlang
 
+- [Alara](https://github.com/your-username/alara) - Distributed random number generator for cryptographic systems.
 - [crypto](http://erlang.org/doc/apps/crypto/) - Functions for computation of message digests, and functions for encryption and decryption.
 - [public_key](http://erlang.org/doc/man/public_key.html) - Provides functions to handle public-key infrastructure.
 
